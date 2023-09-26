@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mhmed7474/London-Internship-Program/static/css/main.16b93e72.css",
+    "main.js": "/mhmed7474/London-Internship-Program/static/js/main.7762e80a.js",
+    "index.html": "/mhmed7474/London-Internship-Program/index.html",
+    "main.16b93e72.css.map": "/mhmed7474/London-Internship-Program/static/css/main.16b93e72.css.map",
+    "main.7762e80a.js.map": "/mhmed7474/London-Internship-Program/static/js/main.7762e80a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.16b93e72.css",
+    "static/js/main.7762e80a.js"
+  ]
+}
