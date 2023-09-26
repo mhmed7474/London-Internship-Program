@@ -1,0 +1,73 @@
+.SideNav {
+  background-color: #fff;
+  margin-left: 10px;
+  margin-top: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  width: 72px;
+  box-shadow: 2px 2px 2px 2px rgba(0, 0, 0, 0.2);
+  height: 900px;
+}
+
+.up {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  height: 675px;
+  font-size: 30px;
+  font-weight: 300;
+}
+
+.down {
+  font-size: 30px;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+  align-items: center;
+  height: 130px;
+  margin-bottom: 10px;
+}
+
+.profileName {
+  width: 40px;
+  height: 40px;
+  font-size: 25px;
+  font-weight: 600;
+  text-align: center;
+  color: #1b338f;
+  border-radius: 50%;
+  position: relative;
+}
+
+.profileName::after {
+  content: "";
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  position: absolute;
+  background-color: #8080809e;
+  color: #8080809e;
+  left: 0;
+}
+
+.profilePhoto {
+  background-color: #8080809e;
+  width: 35px;
+  margin-top: 20px;
+  height: 35px;
+  border-radius: 50%;
+}
+
+.goHome {
+  color: #1d4ed8;
+  background-color: #9dc8e19e;
+  width: 50px;
+  text-align: center;
+  height: 35px;
+  padding-top: 10px;
+  border-radius: 10px;
+  font-size: 25px;
+}

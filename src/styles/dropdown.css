@@ -1,0 +1,22 @@
+a {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+  align-items: center;
+  width: 105%;
+  font-weight: 500;
+  margin-right: 5px;
+}
+
+label {
+  background-color: #D1DDFF !important;
+}
+
+.selected {
+  color: #1d4ed8 !important;
+  background-color: #D1DDFF !important;
+}
+
+p {
+  padding: 5px
+}
